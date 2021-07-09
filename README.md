@@ -1,6 +1,12 @@
 # -銀行營銷分析
 分析所使用得資料集為bank-additional.csv
 
+
+ Bank marketing analysis.ipynb>>>資料探勘
+ 
+ ML Bank marketing forecast.ipynb>>>預測系統
+ 
+
 使用環境：
 
 1.Python3.7
